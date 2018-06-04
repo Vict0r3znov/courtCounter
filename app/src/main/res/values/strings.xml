@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Goal Keeper</string>
+    <string name="h">hello world</string>
+    <string name="hello_world">hello world</string>
+    <string name="free_throw">Free Throw</string>
+    <string name="Reset">Reset</string>
+    <string name="team_a">Team A</string>
+    <string name="_0">0</string>
+    <string name="team_b">Team B</string>
+    <string name="goal">Goaal !</string>
+    <string name="_2_point">+2 Point</string>
+    <string name="title_activity_score">ScoreActivity</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+    <string name="wnta">Write The Name Of Team A</string>
+    <string name="wntb">Write The Name Of Team B</string>
+    <string name="go">Go !</string>
+    <string name="reset">Reset</string>
+    <string name="playername">Player Name</string>
+    <string name="confirm">Confirm</string>
+    <string name="stat">Cards</string>
+    <string name="title_activity_player_with_cards">PlayerWithCards</string>
+</resources>
